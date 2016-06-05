@@ -1,11 +1,11 @@
-#+MACRO: FIRST    John
-#+MACRO: LAST     Doe
+#+MACRO: FIRST    Sheng-Wen
+#+MACRO: LAST     Peng
 #+MACRO: FULL     {{{FIRST}}} {{{LAST}}}
-#+MACRO: BLOG     http://example.com
-#+MACRO: EMAIL    johndoe@exapmle.com
-#+MACRO: PHONE    +1 234 567 8900
-#+MACRO: CODE     https://github.com/johndoe
-#+MACRO: ADDRESS1 1, Broadway
-#+MACRO: ADDRESS2 New York
-
-#+MACRO: HEADER \resheader{ {{{FULL}}} }{ {{{BLOG}}} }{ {{{EMAIL}}} }{ {{{PHONE}}} }{ {{{ADDRESS1}}} }{ {{{ADDRESS2}}} }
+#+MACRO: EMAIL    pooruse@gmail.com
+#+MACRO: PHONE    +886 919 687 797
+#+MACRO: ADDRESS1 No. 2, Ln. 401,
+#+MACRO: ADDRESS2 Sec. 2, Zhangmei Rd.
+#+MACRO: ADDRESS3 Hemei Township,
+#+MACRO: ADDRESS4 Changhua County,
+#+MACRO: ADDRESS5 508, Taiwan
+#+MACRO: HEADER \resheader{ {{{FULL}}} }{ {{{EMAIL}}} }{ {{{PHONE}}} }{ {{{ADDRESS1}}} }{ {{{ADDRESS2}}} }{ {{{ADDRESS3}}} }{ {{{ADDRESS4}}} }{ {{{ADDRESS5}}} }

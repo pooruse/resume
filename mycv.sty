@@ -26,13 +26,16 @@
 % >>>
 
 %% Document header
-\newcommand{\resheader}[6]{
+\newcommand{\resheader}[9]{
     \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}cr}
-    #3 & \textbf{\LARGE #1} & #5\\
-    #4 & \url{#2}           & #6\\
+    #3 & \textbf{\LARGE #1} & #5\\ 
+    #4 & \url{#2}           & #6\\ 
+       &                    & #7\\ 
+       &                    & #8\\
+       &                    & #9\\ 
     \end{tabular*}
     \\
-    \vspace{0.1in}
+    %\vspace{0.1in}
 }
 
 %% Section Headings, etc.
