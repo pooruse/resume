@@ -26,31 +26,27 @@
 % >>>
 
 %% Document header
-\newcommand{\resheader}[9]{
+\newcommand{\resheader}[4]{
     \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}cr}
-    #3 & \textbf{\LARGE #1} & #5\\ 
-    #4 & \url{#2}           & #6\\ 
-       &                    & #7\\ 
-       &                    & #8\\
-       &                    & #9\\ 
+       & \textbf{\LARGE #1} &   \\ 
+       & \url{#2}           &   \\ 
     \end{tabular*}
-    \\
+    \rule{\hsize}{0.1mm}
+    #3 #4
     %\vspace{0.1in}
 }
 
 %% Section Headings, etc.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\renewcommand{\section}[1]{
-  \@startsection{section}{1}{0pt}{0pt}{0pt}{\normalfont}*{}
-  {
-    \large \colorbox{mygrey}{
-      \begin{minipage}
-        {\textwidth-0.175in}
-        {\textbf{#1 \vphantom{p\^{E}}}}
-      \end{minipage}
-    }
-  }
-}
+
+\titleformat{\section} %command
+            [block] %shape
+            {\Large\bfseries\scshape} %format
+            {} %label
+            {0pt} %sep
+            {} %before-code
+            [] %after-code
+            \fontsize{20pt}
 
 \titleformat{\subsection} %command
             [block] %shape

@@ -4,55 +4,43 @@
 #+INCLUDE: personal-info.org
 #+LaTeX_HEADER: \usepackage{mycv}
 #+LaTeX_HEADER: \hypersetup{hidelinks}
-#+LaTeX_CLASS_OPTIONS: [letterpaper]
+#+LaTeX_CLASS_OPTIONS: [11pt,letterpaper]
 
 {{{HEADER}}}
 
-* Experience
-
-*** Senior Hardware Engineer at International Game System co., ltd. (IGS) 
-***** Sep 2013 - Now
-IGS is a arcade game design and manufacturing company. I am responsible for from
-hardware devices and firmware design in it. My job is customizing IO board with
-special ability for each game projects. Sometimes I need designed PC-based IO
-test programs for devices manufacturing. Those test programs were writen by
-python or C with windows API or GNU Standard library. 
-
-*** Graduation Research Assistant at Laboratory for Dependable and Secure Computing (DSC)
-***** Sep 2011 - Jun 2013
-Lab. DSC is focus on high reliability memory design. I spent my time
-implementing built-in self-test and built-in redundancy analysis circuits by
-cell-based design flow or implementing it in FPGAs and comparing performance and
-cost between different circuit. 
-* Summary Qualification
-*** Hardware design experienced Firmware Engineer
-I worked as hardware engineer more 2 years. In this time, I am not only design
-hardware schematics but provided firmware or FPGA designs for it. I fully
-understand how do software connect with hardwares. Those experience make me work
-more efficiently.
-
-*** Multilingual Programmer
-As a programmer, our jobs is not only programming but communicating. I can speak
-Japanese and I pass Japanese-Language Proficiency Test (JLPT) Level N1. I also
-can communicate technique issues with english. 
-
-* Skills
-- Bare Metal Programming ::  Microchip PIC32, NXP Semiconductors LPC17xx, STM
-     Microelectronics STM32 MCUs. And compiled designs in windows or linux.
-- Soft/Hardware system planning :: Microsemi SmartFusion II, Xilinx Zynq-7000 
-- Linux Kernel Developing :: Rockchip RK3288 (ARM
-     Cortex A17)
- 
-* Languages and Tools
-  - Most comfortable with :: C, Verilog, Python, GCC/ARM Tools, Git, Linux,
-       Shell Script
-  - Have worked with :: Matlab, C#, Java, LaTeX, Emacs Lisp, SVN, Mercurial, Qt
-
-* Languages 
-- Chinese :: Native Speaker
-- English :: Oral: good - Written: good
-- Japanese :: Oral: good 
 * Education
 *** NTUST Taipei, Taiwan
-***** Aug 2008 - Jul 2011
-/B.E.E., Electrical and Engineering/, GPA: 3.35/4
+***** June 2013 - Sept. 2011
+/M.E.E., Electrical and Engineering/, GPA: 3.88/4
+*** NTUST Taipei, Taiwan
+***** Aug. 2008 - July 2011
+/B.E.E., Electrical and Engineering/, GPA: 3.40/4
+
+* Experience
+*** Senior Hardware Engineer at International Game System co., ltd. (IGS) 
+***** April 2016 - Now
+- Designed Microcontroller programmer with basic IO interface including USB and
+  Bluetooth 
+- Maintainded Linux or android native libraries connected with IO board
+- Survey SoCs(ARM core) for IGS next generation game platform
+*** Hardware Engineer at International Game System co., ltd. 
+***** Sept. 2013 - March 2016
+- Maintained Microcontroller programs
+- Designed simple IO PCB board like LED or motor driver board 
+*** Graduation Research Assistant at Laboratory for Dependable and Secure Computing (DSC)
+***** Sept. 2011 - June 2013
+- Implemented memory Built-In Self-Test (BIST) and Built-In Redundancy Analysis
+  (BIRA) circuit by cell-based design flow  
+* Publish
+*** Efficient Test and Repair Architectures for Logit-Memory Stated 3D ICs
+***** July 2013
+- Emulated how to test memory in 3D IC processa
+- Desined an BIST circuit with boundary scan followed IEEE 1149.1 standard
+- Verified my design in FPGA with 2D memories 
+  
+* Skills
+- Languages :: Chinese (native), English (medium), Japanese (JLPT N1)
+- Platform :: Linux, MS Windows
+- Programming Languages :: C/C++, Python, LaTex, Matlab
+- C Compiler/IDE :: GCC toolchain, ARM toolchain, Keil, IAR
+- Hardware Development :: OrCad, Verilog, ISE, QartusII, Libero
