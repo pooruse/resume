@@ -11,32 +11,29 @@
 * Education
 *** NTUST Taipei, Taiwan
 ***** June 2013 - Sept. 2011
-/M.E.E., Electrical and Engineering/, GPA: 3.88/4
+- /M.E.E., Electrical and Engineering/, GPA: 3.88/4
 *** NTUST Taipei, Taiwan
 ***** Aug. 2008 - July 2011
-/B.E.E., Electrical and Engineering/, GPA: 3.40/4
+- /B.E.E., Electrical and Engineering/, GPA: 3.40/4
 
 * Experience
-*** Senior Hardware Engineer at International Game System co., ltd. (IGS) 
+*** Senior Hardware Engineer, International Game System co., ltd. (IGS) 
 ***** April 2016 - Now
 - Designed Microcontroller programmer with basic IO interface including USB and
   Bluetooth 
-- Maintainded Linux or android native libraries connected with IO board
+- Maintained Linux or android native libraries connected with IO board
 - Survey SoCs(ARM core) for IGS next generation game platform
-*** Hardware Engineer at International Game System co., ltd. 
+*** Hardware Engineer, International Game System co., ltd. 
 ***** Sept. 2013 - March 2016
 - Maintained Microcontroller programs
 - Designed simple IO PCB board like LED or motor driver board 
-*** Graduation Research Assistant at Laboratory for Dependable and Secure Computing (DSC)
+*** Graduation Research Assistant, Laboratory for Dependable and Secure Computing
 ***** Sept. 2011 - June 2013
 - Implemented memory Built-In Self-Test (BIST) and Built-In Redundancy Analysis
-  (BIRA) circuit by cell-based design flow  
-* Publish
-*** Efficient Test and Repair Architectures for Logit-Memory Stated 3D ICs
-***** July 2013
-- Emulated how to test memory in 3D IC processa
-- Desined an BIST circuit with boundary scan followed IEEE 1149.1 standard
-- Verified my design in FPGA with 2D memories 
+  (BIRA) circuit by cell-based design flow 
+- Emulated how to test memory in 3D IC process
+- Designed a BIST circuit with IEEE 1149.1 control interface and Verified it
+  with FPGA  
   
 * Skills
 - Languages :: Chinese (native), English (medium), Japanese (JLPT N1)
@@ -44,3 +41,4 @@
 - Programming Languages :: C/C++, Python, LaTex, Matlab
 - C Compiler/IDE :: GCC toolchain, ARM toolchain, Keil, IAR
 - Hardware Development :: OrCad, Verilog, ISE, QartusII, Libero
+

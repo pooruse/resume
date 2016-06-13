@@ -36,8 +36,15 @@
     %\vspace{0.1in}
 }
 
+\let\myitemize\itemize
+\let\endmyitemize\enditemize
+\renewenvironment{itemize}
+{\begin{minipage}{145mm}\begin{myitemize}}
+{\end{myitemize}\end{minipage}}
+
 %% Section Headings, etc.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 \titleformat{\section} %command
             [block] %shape
@@ -52,7 +59,7 @@
             {\bfseries} %format
             {} %label
             {0pt} %sep
-            {} %before-code
+            {\setlength{\hsize}{145mm}} %before-code
             [] %after-code
 
 \titlespacing{\subsection}{0pt}{5pt}{0pt}[{0pt}]
