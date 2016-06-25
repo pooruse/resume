@@ -9,16 +9,19 @@
 {{{HEADER}}}
 
 * Experience
-*** Senior Hardware Engineer, International Game System co., ltd. (IGS) 
+*** International Game System co., ltd. (IGS)
 ***** April 2016 - Present
+******* Senior Hardware Engineer 
 - Designed Microcontroller programmer with basic IO interface including USB and
   Bluetooth 
 - Maintained Linux or android native libraries connected with IO board
 - Survey SoCs(ARM core) for IGS next generation game platform
+
 *** Hardware Engineer, International Game System co., ltd. 
-***** Sept. 2013 - March 2016
+******* Hardware Engineer
 - Maintained Microcontroller programs
 - Designed simple IO PCB board like LED or motor driver board 
+
 *** Graduation Research Assistant, Laboratory for Dependable and Secure Computing
 ***** Sept. 2011 - June 2013
 - Implemented memory Built-In Self-Test (BIST) and Built-In Redundancy Analysis

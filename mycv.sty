@@ -64,12 +64,24 @@
 
 %\titlespacing{\subsection}{0pt}{5pt}{0pt}[{0pt}]
 
+
 \titleformat{\subsubsection} %command
             [block] %shape
-            {\vspace{-4.5ex}\small\it\raggedleft} %format
+            {\vspace{-4.0ex}\small\it\raggedleft} %format
             {} %label
             {0pt} %sep
             {} %before-code
             [] %after-code
+
 %\titlespacing{\subsubsection}{0pt}{0pt}{0pt}[{0pt}]
+
+\titleformat{\paragraph} %command
+            [block] %shape
+            {\bfseries} %format
+            {} %label
+            {0pt} %sep
+            {\setlength{\hsize}{145mm}\hspace{1ex}} %before-code
+            [] %after-code
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
