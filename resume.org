@@ -8,17 +8,9 @@
 
 {{{HEADER}}}
 
-* Education
-*** NTUST Taipei, Taiwan
-***** June 2013 - Sept. 2011
-- /M.E.E., Electrical and Engineering/, GPA: 3.88/4
-*** NTUST Taipei, Taiwan
-***** Aug. 2008 - July 2011
-- /B.E.E., Electrical and Engineering/, GPA: 3.40/4
-
 * Experience
 *** Senior Hardware Engineer, International Game System co., ltd. (IGS) 
-***** April 2016 - Now
+***** April 2016 - Present
 - Designed Microcontroller programmer with basic IO interface including USB and
   Bluetooth 
 - Maintained Linux or android native libraries connected with IO board
@@ -41,4 +33,12 @@
 - Programming Languages :: C/C++, Python, LaTex, Matlab
 - C Compiler/IDE :: GCC toolchain, ARM toolchain, Keil, IAR
 - Hardware Development :: OrCad, Verilog, ISE, QartusII, Libero
+
+* Education
+*** NTUST Taipei, Taiwan
+***** Sept. 2011 - June 2013
+- /M.E.E., Electrical and Engineering/, GPA: 3.88/4
+*** NTUST Taipei, Taiwan
+***** Aug. 2008 - July 2011
+- /B.E.E., Electrical and Engineering/, GPA: 3.40/4
 
