@@ -39,7 +39,7 @@
 \let\myitemize\itemize
 \let\endmyitemize\enditemize
 \renewenvironment{itemize}
-{\begin{minipage}{145mm}\begin{myitemize}}
+{\begin{minipage}{145mm}\begin{myitemize}\itemsep=0}
 {\end{myitemize}\end{minipage}}
 
 %% Section Headings, etc.
@@ -56,7 +56,7 @@
 
 \titleformat{\subsection} %command
             [block] %shape
-            {\bfseries} %format
+            {\bfseries\large} %format
             {} %label
             {0pt} %sep
             {\setlength{\hsize}{145mm}} %before-code
@@ -67,7 +67,7 @@
 
 \titleformat{\subsubsection} %command
             [block] %shape
-            {\vspace{-4.0ex}\small\it\raggedleft} %format
+            {\vspace{-4.0ex}\it\raggedleft} %format
             {} %label
             {0pt} %sep
             {} %before-code

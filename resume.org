@@ -17,13 +17,13 @@
 - Maintained Linux or android native libraries connected with IO board
 - Survey SoCs(ARM core) for IGS next generation game platform
 
-*** Hardware Engineer, International Game System co., ltd. 
 ******* Hardware Engineer
 - Maintained Microcontroller programs
 - Designed simple IO PCB board like LED or motor driver board 
 
-*** Graduation Research Assistant, Laboratory for Dependable and Secure Computing
+*** Laboratory for Dependable and Secure Computing
 ***** Sept. 2011 - June 2013
+******* Graduation Research Assistant
 - Implemented memory Built-In Self-Test (BIST) and Built-In Redundancy Analysis
   (BIRA) circuit by cell-based design flow 
 - Emulated how to test memory in 3D IC process
