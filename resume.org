@@ -48,8 +48,6 @@
 - Thesis: Efficient Test and Repair Architectures for Logic Memory Stacked 3D ICs
 - Advisor: Prof. Shyue-Kung Lu
 - GPA: 3.88/4
-******* B.E.E., Electrical and Engineering
-********* Aug. 2008 - July 2011
-- GPA: 3.40/4
+
 
   
