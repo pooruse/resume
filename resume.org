@@ -9,21 +9,24 @@
 {{{HEADER}}}
 
 * Experience
-*** International Game System co., ltd. (IGS)
-***** April 2016 - Present
+*** International Game System co., ltd.
+***** New Taipei City, Taiwan
 ******* Senior Hardware Engineer 
+********* April 2016 - Present
 - Designed Microcontroller programmer with basic IO interface including USB and
   Bluetooth 
 - Maintained Linux or android native libraries connected with IO board
 - Survey SoCs(ARM core) for IGS next generation game platform
 
 ******* Hardware Engineer
+********* Sept. 2013 - 2016 March
 - Maintained Microcontroller programs
 - Designed simple IO PCB board like LED or motor driver board 
 
-*** Laboratory for Dependable and Secure Computing
-***** Sept. 2011 - June 2013
+*** National Taiwan University Science and Technology
+***** Taipei, Taiwan
 ******* Graduation Research Assistant
+********* Sept. 2011 - June 2013
 - Implemented memory Built-In Self-Test (BIST) and Built-In Redundancy Analysis
   (BIRA) circuit by cell-based design flow 
 - Emulated how to test memory in 3D IC process
@@ -38,10 +41,15 @@
 - Hardware Development :: OrCad, Verilog, ISE, QartusII, Libero
 
 * Education
-*** NTUST Taipei, Taiwan
-***** Sept. 2011 - June 2013
-- /M.E.E., Electrical and Engineering/, GPA: 3.88/4
-*** NTUST Taipei, Taiwan
-***** Aug. 2008 - July 2011
-- /B.E.E., Electrical and Engineering/, GPA: 3.40/4
+*** National Taiwan University Science and Technology
+***** Taipei, Taiwan
+******* M.E.E., Electrical and Engineering
+********* Sept. 2011 - June 2013
+- Thesis: Efficient Test and Repair Architectures for Logic Memory Stacked 3D ICs
+- Advisor: Prof. Shyue-Kung Lu
+- GPA: 3.88/4
+******* B.E.E., Electrical and Engineering
+********* Aug. 2008 - July 2011
+- GPA: 3.40/4
 
+  
