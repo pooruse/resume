@@ -8,38 +8,6 @@
 
 {{{HEADER}}}
 
-* Experience
-*** International Game System co., ltd.
-***** New Taipei City, Taiwan
-******* Senior Hardware Engineer 
-********* April 2016 - Present
-- Designed Microcontroller programmer with basic IO interface including USB and
-  Bluetooth 
-- Maintained Linux or android native libraries connected with IO board
-- Survey SoCs(ARM core) for IGS next generation game platform
-
-******* Hardware Engineer
-********* Sept. 2013 - 2016 March
-- Maintained Microcontroller programs
-- Designed simple IO PCB board like LED or motor driver board 
-
-*** National Taiwan University Science and Technology
-***** Taipei, Taiwan
-******* Graduation Research Assistant
-********* Sept. 2011 - June 2013
-- Implemented memory Built-In Self-Test (BIST) and Built-In Redundancy Analysis
-  (BIRA) circuit by cell-based design flow 
-- Emulated how to test memory in 3D IC process
-- Designed a BIST circuit with IEEE 1149.1 control interface and Verified it
-  with FPGA  
-  
-* Skills
-- Languages :: Chinese (native), English (medium), Japanese (JLPT N1)
-- Platform :: Linux, MS Windows
-- Programming Languages :: C/C++, Python, LaTex, Matlab
-- C Compiler/IDE :: GCC toolchain, ARM toolchain, Keil, IAR
-- Hardware Development :: OrCad, Verilog, ISE, QartusII, Libero
-
 * Education
 *** National Taiwan University Science and Technology
 ***** Taipei, Taiwan
@@ -48,6 +16,40 @@
 - Thesis: Efficient Test and Repair Architectures for Logic Memory Stacked 3D ICs
 - Advisor: Prof. Shyue-Kung Lu
 - GPA: 3.88/4
+
+* Experience
+*** Ackuretta Technologies (3D printer)
+***** Taipei City, Taiwan
+******* Senior Firmware Engineer
+********* Nov. 2016 - Present
+- Refactored existed microcontrolelr program for readability and 
+  shortened time to market.
+- Planned for next product which support fancy user interface and 
+  improve machine performance.
+- Organized a system for our next product which contains cherrypy / Python backend, 
+  Angular frontend and a microcontroller for IO controll.
+
+
+*** International Game System co., ltd. (Arcade gaming machine)
+***** New Taipei City, Taiwan
+******* Senior Hardware Engineer 
+********* April 2016 - Oct. 2016
+- Designed Microcontroller programmer with basic IO interface including USB and
+  Bluetooth.
+- Maintained Linux native libraries connected with IO board.
+- Surveyed SoCs(ARM core) for IGS next generation game platform.
+
+******* Hardware Engineer
+********* Sept. 2013 - March 2016
+- Maintained Microcontroller programs.
+- Designed simple IO PCB board like LED or motor driver board.
+  
+* Skills
+- Languages :: Chinese (native), English (TOEIC 740), Japanese (JLPT N1)
+- Platform :: Linux, MS Windows
+- Programming Languages :: C/C++, Python, LaTex, Matlab
+- C Compiler/IDE :: GCC toolchain, ARM toolchain, Keil, IAR
+- Hardware Development :: OrCad, Verilog, ISE, QartusII, Libero
 
 
   
