@@ -23,11 +23,11 @@
 ******* Senior Firmware Engineer
 ********* Nov. 2016 - Present
 - Refactored existed microcontrolelr program for readability and 
-  reduce cost of maintenace.
-- Planned a system for next product which support fancy user interface and 
+  reduce the cost of maintenance.
+- Planned a system for next product which supports fancy user interface and 
   improve machine performance.
 - Organized a system for our next product which contains cherrypy / Python backend, 
-  Angular frontend and a microcontroller for IO controll.
+  Angular frontend and a microcontroller for IO control.
 
 
 *** International Game System co., ltd. (Arcade gaming machine)
