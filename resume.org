@@ -22,10 +22,10 @@ Professional embedded system engineer with five years of experience in microcont
 ***** Nov. 2016 - Present
 ******* Senior Firmware Engineer
 - Added completed firmware shutdown protection including shutdown motor protection and printing model resuming.
-- Built an performance/security balanced encrypted system to protect product from pirate copying.
-- Shorten the time to market of 3D printer 4 weeks by created a machine live monitor program for experiment analysis.
+- Built a performance/security balanced encrypted system to protect the product from pirate copying.
+- Shorten the time to market of 3D printer 4 weeks by creating a machine live monitor program for experiment analysis.
 
-*** International Game System co., ltd. (Arcade gaming machine)
+*** International Game System co., Ltd. (Arcade gaming machine)
 ***** April 2016 - Oct. 2016
 ******* Senior Hardware Engineer 
 - Established more than 10 firmware of arcade machine including controlling motors and driving I2C/SPI/CAN bus/UART interface device.
@@ -35,10 +35,9 @@ Professional embedded system engineer with five years of experience in microcont
 * Education
 *** National Taiwan University Science and Technology
 ***** Sept. 2011 - June 2013
-******* M.E.E., Electrical and Engineering
+******* M.E.E., Electrical, and Engineering
 - Thesis: Efficient Test and Repair Architectures for Logic Memory Stacked 3D ICs
 - Advisor: Prof. Shyue-Kung Lu
 - GPA: 3.88/4
-
 
   
