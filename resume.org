@@ -1,5 +1,5 @@
 #+OPTIONS: toc:nil H:10 tex:t
-#+TITLE:   
+#+TITLE: 
 #+STARTUP: odd hidestars indent
 #+INCLUDE: personal-info.org
 #+LaTeX_HEADER: \usepackage{mycv}
@@ -8,48 +8,37 @@
 
 {{{HEADER}}}
 
-* Education
-*** National Taiwan University Science and Technology
-***** Taipei, Taiwan
-******* M.E.E., Electrical and Engineering
-********* Sept. 2011 - June 2013
-- Thesis: Efficient Test and Repair Architectures for Logic Memory Stacked 3D ICs
-- Advisor: Prof. Shyue-Kung Lu
-- GPA: 3.88/4
+* Profile
+Professional embedded system engineer with five years of experience in microcontroller and Linux app development. Involved in machine architecture planning and lead a small programmer team. 
+  
+* Skills
+- Languages :: Chinese (native), English (proficient), Japanese (proficient)
+- Programming Languages :: C, Python, javascript, C++
+- C Compiler/IDE :: GCC toolchain, ARM toolchain, Keil, IAR
+- Hardware Development :: Verilog, ISE, QartusII, Libero, OrCad
 
 * Experience
 *** Ackuretta Technologies (3D printer)
-***** Taipei City, Taiwan
+***** Nov. 2016 - Present
 ******* Senior Firmware Engineer
-********* Nov. 2016 - Present
-- Refactored existed microcontrolelr program for readability and 
-  reduce the cost of maintenance.
-- Planned a system for next product which supports fancy user interface and 
-  improve machine performance.
-- Organized a system for our next product which contains cherrypy / Python backend, 
-  Angular frontend and a microcontroller for IO control.
-
+- Added completed firmware shutdown protection including shutdown motor protection and printing model resuming.
+- Built an performance/security balanced encrypted system to protect product from pirate copying.
+- Shorten the time to market of 3D printer 4 weeks by created a machine live monitor program for experiment analysis.
 
 *** International Game System co., ltd. (Arcade gaming machine)
-***** New Taipei City, Taiwan
+***** April 2016 - Oct. 2016
 ******* Senior Hardware Engineer 
-********* April 2016 - Oct. 2016
-- Designed Microcontroller programmer with basic IO interface including USB and
-  Bluetooth.
-- Maintained Linux native libraries connected with IO board.
-- Surveyed SoCs(ARM core) for IGS next generation game platform.
+- Established more than 10 firmware of arcade machine including controlling motors and driving I2C/SPI/CAN bus/UART interface device.
+- Implemented FPGA product Intellectual property protector.
+- Saved more than 80% flash memory of microcontroller by implement compressed algorithm into the chip.
 
-******* Hardware Engineer
-********* Sept. 2013 - March 2016
-- Maintained Microcontroller programs.
-- Designed simple IO PCB board like LED or motor driver board.
-  
-* Skills
-- Languages :: Chinese (native), English (TOEIC 740), Japanese (JLPT N1)
-- Platform :: Linux, MS Windows
-- Programming Languages :: C/C++, Python, LaTex, Matlab
-- C Compiler/IDE :: GCC toolchain, ARM toolchain, Keil, IAR
-- Hardware Development :: OrCad, Verilog, ISE, QartusII, Libero
+* Education
+*** National Taiwan University Science and Technology
+***** Sept. 2011 - June 2013
+******* M.E.E., Electrical and Engineering
+- Thesis: Efficient Test and Repair Architectures for Logic Memory Stacked 3D ICs
+- Advisor: Prof. Shyue-Kung Lu
+- GPA: 3.88/4
 
 
   

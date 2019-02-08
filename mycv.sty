@@ -29,18 +29,19 @@
 \newcommand{\resheader}[4]{
     \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}cr}
        & \textbf{\LARGE #1} &   \\ 
-       & \url{#2}           &   \\ 
+       & \url{#2}           &   \\
+       & \url{#3}           &   \\ 
     \end{tabular*}
     \rule{\hsize}{0.1mm}
-    #3 #4
+    #4 #5
     %\vspace{0.1in}
 }
 
 \let\myitemize\itemize
 \let\endmyitemize\enditemize
 \renewenvironment{itemize}
-{\begin{minipage}{145mm}\begin{myitemize}\itemsep=0}
-{\end{myitemize}\end{minipage}}
+{\begin{myitemize}\itemsep=0}
+{\end{myitemize}}
 
 %% Section Headings, etc.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -83,7 +84,6 @@
             [] %after-code
 
 %\titlespacing{\subsubsection}{0pt}{0pt}{0pt}[{0pt}]
-
             
 \titleformat{\paragraph} %command
             [block] %shape
@@ -91,7 +91,7 @@
             {} %label
             {0pt} %sep
             {\setlength{\hsize}{145mm}\hspace{1ex}} %before-code
-            [] %after-code
+            [] %after-code            
 
 \titleformat{\subparagraph} %command
             [block] %shape

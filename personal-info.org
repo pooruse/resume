@@ -2,6 +2,7 @@
 #+MACRO: LAST     Peng
 #+MACRO: FULL     {{{FIRST}}} {{{LAST}}}
 #+MACRO: EMAIL    pooruse@gmail.com
+#+MACRO: LINKIN   https://www.linkedin.com/in/derek-peng-37977994/
 #+MACRO: PHONE    +886 919 687 797
 #+MACRO: ADDRESS No. 2, Ln. 401, Sec. 2, Zhangmei Rd., Heimei Township, Changhua County, 508, Taiwan
-#+MACRO: HEADER \resheader{ {{{FULL}}} }{ {{{EMAIL}}} }{ {{{PHONE}}} }{ {{{ADDRESS}}} }
+#+MACRO: HEADER \resheader{ {{{FULL}}} }{ {{{EMAIL}}} }{ {{{LINKIN}}} }{ {{{PHONE}}} }{ {{{ADDRESS}}} }

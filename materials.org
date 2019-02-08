@@ -1,0 +1,30 @@
+* Materials (project oriented)
+IGS
+1. [Verilog][C][SPI] FPGA/MCU based hardware key protection
+2. [Microchip][CANBUS] Arcade machine control firmware
+3. [C++][QT4] Manufacturing Toolkit
+4. [C][uBoot] Boot-up diagnostic and self-repair program 
+5. [UART][STM32] A general hardware control board
+
+Ackuretta
+1. [C][STM32][Python][Linux Kernel][Yocto] Following the spec to implement and improve first prototype
+2. [WIFI][C][STM32][Python][Linux Kernel][javascript][angularJS][HTML] Plan the experiment of new 3D printer technology, join the experiment and implement to new machine.
+3. Evaluating a series of High PC value product line, porting the existing system to it and ready for sell.
+
+Tools
+1. [Git][SVN][Linux][MS Windows][]
+2. [Emacs][elisp][common lisp][SBCL][haskell]
+
+* Materials (achievement oriented)
+Ackuretta
+1. Added completed firmware shutdown protection including shutdown motor protection and printing model resuming.
+2. Built an performance/security balanced encrypted system to protect product from pirate copying.
+3. Shorten the time to marcket of 3D printer 4 weeks by created a machine live monitor program for experiment analysis.
+IGS
+1. Established more than 10 firmwares of arcade machine including controlling motors and driving I2C/SPI/CAN bus/UART interface device.
+2. Implemented FPGA product Intellectual property protector.
+3. Saved more than 80% flash memory of microcontroller by implement compressed algorithm into the chip.
+
+
+
+
