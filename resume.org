@@ -21,9 +21,9 @@ Professional embedded system engineer with five years of experience in microcont
 *** Ackuretta Technologies (3D printer)
 ***** Nov. 2016 - Present
 ******* Senior Firmware Engineer
-- Added completed firmware shutdown protection including shutdown motor protection and printing model resuming.
+- Added completed firmware shutdown protection in STM32 microcontroller with C.
 - Built a performance/security balanced encrypted system to protect the product from pirate copying.
-- Shorten the time to market of 3D printer 4 weeks by creating a machine live monitor program for experiment analysis.
+- Shorten the time to market of 3D printer 4 weeks by creating a machine live monitor program with python for experiment analysis.
 
 *** International Game System co., Ltd. (Arcade gaming machine)
 ***** April 2016 - Oct. 2016
