@@ -3,8 +3,12 @@
 #+STARTUP: odd hidestars indent
 #+INCLUDE: personal-info.org
 #+LaTeX_HEADER: \usepackage{mycv}
+#+LaTeX_HEADER: \usepackage{tikz}
+#+LaTeX_HEADER: \usepackage{indentfirst}
+#+LaTeX_HEADER: \setlength{\parindent}{15pt}
 #+LaTeX_HEADER: \hypersetup{hidelinks}
-#+LaTeX_CLASS_OPTIONS: [11pt,letterpaper]
+
+#+LaTeX_CLASS_OPTIONS: [10pt,letterpaper]
 
 {{{HEADER}}}
 
@@ -15,20 +19,22 @@ Professional embedded system engineer with five years of experience in microcont
 - Languages :: Chinese (native), English (proficient), Japanese (proficient)
 - Programming Languages :: C, Python, javascript, C++
 - C Compiler/IDE :: GCC toolchain, ARM toolchain, Keil, IAR
-- Hardware Development :: Verilog, ISE, QartusII, Libero, OrCad
+- Hardware Development :: Verilog, ISE, QartusII, Libero, OrCad, gEDA
 
 * Experience
 *** Ackuretta Technologies (3D printer)
 ***** Nov. 2016 - Present
 ******* Senior Firmware Engineer
-- Added completed firmware shutdown protection in STM32 microcontroller with C.
+- Designed a microcontroller firmware for DLP 3D printer with a portable size protocol that can communicate with Linux system.
+- Wrote a DLP 3D printer control system in embedded Linux which is much flexible for the user to adjust several variables for printing.
+- Managed a 2 people firmware team and keep tracking the performance of our team members.
 - Built a performance/security balanced encrypted system to protect the product from pirate copying.
 - Shorten the time to market of 3D printer 4 weeks by creating a machine live monitor program with python for experiment analysis.
 
 *** International Game System co., Ltd. (Arcade gaming machine)
 ***** April 2016 - Oct. 2016
 ******* Senior Hardware Engineer 
-- Established more than 10 firmware of arcade machine including controlling motors and driving I2C/SPI/CAN bus/UART interface device.
+- Established more than 10 firmware of arcade machines including controlling motors and driving I2C/SPI/CAN bus/UART interface device.
 - Implemented FPGA product Intellectual property protector.
 - Saved more than 80% flash memory of microcontroller by implement compressed algorithm into the chip.
 

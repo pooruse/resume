@@ -26,14 +26,15 @@
 % >>>
 
 %% Document header
-\newcommand{\resheader}[4]{
+\newcommand{\resheader}[7]{
     \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}cr}
-       & \textbf{\LARGE #1} &   \\ 
-       & \url{#2}           &   \\
-       & \url{#3}           &   \\ 
+      & \textbf{\LARGE #1} &   \\
+      & #2           &   \\
     \end{tabular*}
     \rule{\hsize}{0.1mm}
-    #4 #5
+    \begin{center}
+      #3 #4 #5 #6
+    \end{center}
     %\vspace{0.1in}
 }
 
