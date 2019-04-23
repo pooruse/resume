@@ -16,9 +16,9 @@
 Professional embedded system engineer with five years of experience in microcontroller and Linux app development. Involved in machine architecture planning and lead a small programmer team. 
   
 * Skills
-- Languages :: Chinese (native), English (proficient), Japanese (proficient)
 - Programming Languages :: C, Python, javascript, C++
 - C Compiler/IDE :: GCC toolchain, ARM toolchain, Keil, IAR
+- Languages :: Chinese (native), English (proficient), Japanese (proficient)
 - Hardware Development :: Verilog, ISE, QartusII, Libero, OrCad, gEDA
 
 * Experience
